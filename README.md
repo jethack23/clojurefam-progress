@@ -56,8 +56,8 @@ I'll record my progress in this repo.
 
 - [x] day 1   
 Made this repo, Installed Clojure and Clojurescript in WSL. Solved 21 problems of 4Clojure
-- [x] day 2
-Read first chapter of Clojure from the groud up.
+- [x] day 2   
+2021/04/25 Read first chapter of Clojure from the groud up.
 - [ ] day 3
 - [ ] day 4
 - [ ] day 5
