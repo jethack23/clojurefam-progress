@@ -50,15 +50,21 @@ I'll record my progress in this repo.
 - [ ] build an app with datascript
 
 </details>
-<details>
 
-<summary>#learninpublic</summary>
+### <summary>#learninpublic</summary>
 
 - [x] day 1   
-Made this repo, Installed Clojure and Clojurescript in WSL. Solved 21 problems of 4Clojure
+[[April 24th, 2021]]
+Made github repo, Installed Clojure and Clojurescript in WSL. Solved 21 problems of 4Clojure
+
 - [x] day 2   
-2021/04/25 Read first chapter of Clojure from the groud up.
-- [ ] day 3
+[[April 25th, 2021]]
+Read first chapter of Clojure from the groud up.
+    - installed [[leiningen]]
+
+- [x] day 3   
+[[April 28th, 2021]]
+Read second chapter of Clojure from the ground up
 - [ ] day 4
 - [ ] day 5
 - [ ] day 6
@@ -91,5 +97,3 @@ Made this repo, Installed Clojure and Clojurescript in WSL. Solved 21 problems o
 - [ ] day 33
 - [ ] day 34
 - [ ] day 35
-
-</details>
