@@ -56,20 +56,18 @@ I'll record my progress in this repo.
 - [x] day 1   
     - [[April 24th, 2021]]   
     - Made github repo, Installed Clojure and Clojurescript in WSL.
-    - Solved 21    problems of 4Clojure
-
+    - Solved 21 problems of 4Clojure
 - [x] day 2   
     - [[April 25th, 2021]]   
     - Read first chapter of Clojure from the groud up.
     - installed [[leiningen]]
-
 - [x] day 3   
     - [[April 28th, 2021]]   
     - Read second chapter of Clojure from the ground up
 - [x] day 4
     - [[April 29th, 2021]]
     - Read third chapter of Clojure from the ground up
-    - Solved 20 more 4clojure problems
+    - Solved 28 more 4clojure problems
 - [ ] day 5
 - [ ] day 6
 - [ ] day 7
