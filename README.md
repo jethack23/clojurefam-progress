@@ -68,7 +68,9 @@ I'll record my progress in this repo.
     - [[April 29th, 2021]]
     - Read third chapter of Clojure from the ground up
     - Solved 28 more 4clojure problems
-- [ ] day 5
+- [x] day 5
+    - [[May 7th, 2021]]
+    - Read 4, 5 chapter of Clojure from the ground up
 - [ ] day 6
 - [ ] day 7
 - [ ] day 8
